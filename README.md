@@ -1,0 +1,1 @@
+Vengeance File includes the methods of KNN, NB and SVM, while the other file matlab file has the test for LASSO method, the zip contains the original Rstudio code and the Csv file with the data used for the model
